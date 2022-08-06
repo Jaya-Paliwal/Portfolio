@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9f986ad2.css",
+    "main.js": "/portfolio/static/js/main.91b84b0c.js",
+    "static/media/me2-unscreen.gif": "/portfolio/static/media/me2-unscreen.b9d886ab0f4b1f356dde.gif",
+    "static/media/cv.pdf": "/portfolio/static/media/cv.70cd060cadd3037eae24.pdf",
+    "static/media/me1-unscreen.gif": "/portfolio/static/media/me1-unscreen.9da75c3a3cb3f8b03556.gif",
+    "static/media/portfolio8.jpg": "/portfolio/static/media/portfolio8.691d0758b7fa0513a71f.jpg",
+    "static/media/portfolio5.png": "/portfolio/static/media/portfolio5.1995421bad23d5e755a9.png",
+    "static/media/portfolio6.jpg": "/portfolio/static/media/portfolio6.64992a42292bad209685.jpg",
+    "static/media/avatar2.jpg": "/portfolio/static/media/avatar2.ec2892cb14987aaa251c.jpg",
+    "static/media/seologo.png": "/portfolio/static/media/seologo.a4846fd38f25ee31520f.png",
+    "static/media/portfolio7.jpg": "/portfolio/static/media/portfolio7.ec26bd413cb6bbc69297.jpg",
+    "static/media/portfolio13.jpg": "/portfolio/static/media/portfolio13.36e5e9efb9034fe1cf03.jpg",
+    "static/media/reactlogo.png": "/portfolio/static/media/reactlogo.29b0bc1077c1b43a5642.png",
+    "static/media/portfolio4.jpg": "/portfolio/static/media/portfolio4.8a20564aea4806e12e99.jpg",
+    "static/media/nextjslogo.png": "/portfolio/static/media/nextjslogo.d684cfd71b5b2609dd2e.png",
+    "static/media/csslogo.png": "/portfolio/static/media/csslogo.fe28d2efd9ab1e2eb98c.png",
+    "static/media/htmllogo.png": "/portfolio/static/media/htmllogo.fda34d2feafefe11baa1.png",
+    "static/media/portfolio11.jpg": "/portfolio/static/media/portfolio11.cd56c6a122a2342d8d15.jpg",
+    "static/media/boostraplogo.png": "/portfolio/static/media/boostraplogo.3698947635b8821d23df.png",
+    "static/media/sasslogo.png": "/portfolio/static/media/sasslogo.b58cdfa656267a6844d5.png",
+    "static/media/pythonlogo.png": "/portfolio/static/media/pythonlogo.16b42589b1217264cd9c.png",
+    "static/media/jslogo.png": "/portfolio/static/media/jslogo.0d985b96a3877a063b2d.png",
+    "static/media/tailwindlogo.png": "/portfolio/static/media/tailwindlogo.d45480a89f0d84edee3b.png",
+    "static/media/portfolio1.jpg": "/portfolio/static/media/portfolio1.6ece308e7ca2dfca9315.jpg",
+    "static/media/portfolio9.jpg": "/portfolio/static/media/portfolio9.59a0e1976b1d47a5fdc8.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.9f986ad2.css.map": "/portfolio/static/css/main.9f986ad2.css.map",
+    "main.91b84b0c.js.map": "/portfolio/static/js/main.91b84b0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f986ad2.css",
+    "static/js/main.91b84b0c.js"
+  ]
+}
