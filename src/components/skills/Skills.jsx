@@ -54,16 +54,6 @@ const Skills = () => {
 
           <div className="skills">
           <div className="details">
-              <span>SASS</span>
-              <span>92%</span>
-            </div>
-            <div className="bar">
-              <div id="sass-bar"></div>
-            </div>
-          </div>
-
-          <div className="skills">
-          <div className="details">
               <span>JavaScript</span>
               <span>75%</span>
             </div>
@@ -89,26 +79,6 @@ const Skills = () => {
             </div>
             <div className="bar">
               <div id="nextjs-bar"></div>
-            </div>
-          </div>
-
-          <div className="skills">
-          <div className="details">
-              <span>Python</span>
-              <span>75%</span>
-            </div>
-            <div className="bar">
-              <div id="python-bar"></div>
-            </div>
-          </div>
-
-          <div className="skills">
-          <div className="details">
-              <span>SEO</span>
-              <span>35%</span>
-            </div>
-            <div className="bar">
-              <div id="seo-bar"></div>
             </div>
           </div>
 
