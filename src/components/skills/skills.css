@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 #skills{
-    height: 135vh;
+    height: 130vh;
 }
 #experince{
     display: flex;
@@ -110,14 +110,6 @@
         width: 98%;
     }
 }
-#sass-bar{
-    animation: sass-fill 2s forwards;
-}
-@keyframes sass-fill{
-    100%{
-        width: 92%;
-    }
-}
 #js-bar{
     animation: js-fill 2s forwards;
 }
@@ -140,22 +132,6 @@
 @keyframes nextjs-fill{
     100%{
         width: 85%;
-    }
-}
-#python-bar{
-    animation: python-fill 2s forwards;
-}
-@keyframes python-fill{
-    100%{
-        width: 75%;
-    }
-}
-#seo-bar{
-    animation: seo-fill 2s forwards;
-}
-@keyframes seo-fill{
-    100%{
-        width: 35%;
     }
 }
 #figma-bar{
